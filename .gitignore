@@ -1,4 +1,14 @@
-# Python
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+.vscode/
+*.log# Python
 __pycache__/
 *.py[cod]
 *$py.class
